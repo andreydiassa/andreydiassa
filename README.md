@@ -8,7 +8,7 @@ Seja bem-vindo ao meu perfil GitHub! Aqui você encontrará alguns dos projetos 
 
 ## 🚀 Sobre Mim
 - 🎓 Estudante apaixonado por desenvolvimento de software
-- 💻 Foco em linguagens como **Java**, **HTML**, **CSS** e **SQL**
+- 💻 Atuamente trabalhando na MV Sistemas com **Java**, **Springboot** e **SQL**
 - 🎯 Sempre em busca de novos conhecimentos e desafios
 
 ---
